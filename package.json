@@ -1,7 +1,7 @@
 {
   "name": "encourage",
   "main": "./lib/encourage.js",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Let Atom encourage you while you work",
   "keywords": [],
   "repository": "https://github.com/phanatic/encourage-atom",
