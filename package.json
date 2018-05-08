@@ -4,7 +4,7 @@
   "version": "0.4.0",
   "description": "Let Atom encourage you while you work",
   "keywords": [],
-  "repository": "https://github.com/haacked/encourage-atom",
+  "repository": "https://github.com/phanatic/encourage-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
