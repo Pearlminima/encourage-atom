@@ -1,8 +1,8 @@
 {
   "name": "encourage",
   "main": "./lib/encourage.js",
-  "version": "0.8.0",
-  "description": "Let Atom encourage you while you work",
+  "version": "0.9.0",
+  "description": "Hash rules everything around me.",
   "keywords": [],
   "repository": "https://github.com/phanatic/encourage-atom",
   "license": "MIT",
